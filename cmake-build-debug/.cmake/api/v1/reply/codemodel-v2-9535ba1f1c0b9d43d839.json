@@ -41,14 +41,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Pong::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Pong-Debug-7835ddfcc8771f936761.json",
+					"jsonFile" : "target-Pong-Debug-0e89ec9f1e939dd2ced2.json",
 					"name" : "Pong",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "scrLib::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-scrLib-Debug-90d998c82e96c23ff2ab.json",
+					"jsonFile" : "target-scrLib-Debug-a231086717b047d07748.json",
 					"name" : "scrLib",
 					"projectIndex" : 0
 				}

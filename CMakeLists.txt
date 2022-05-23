@@ -5,6 +5,7 @@ find_package(SFML 2.5 COMPONENTS network graphics audio REQUIRED)
 
 add_library(scrLib
         scr/Defender.cpp
+        scr/Ball.cpp
         )
 
 target_link_libraries(scrLib PRIVATE sfml-network sfml-graphics sfml-audio)

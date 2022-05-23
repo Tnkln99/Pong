@@ -18,5 +18,14 @@ Direction Defender::getDirection() {
     return this->direction;
 }
 
+void Defender::updateDefender(Direction direction) {
+    this->direction = direction;
+    if(direction == Direction::LEFT)
+        this->move(-1,0);
+    else if(direction == Direction::RIGHT)
+        this->move(1,0);
+
+}
+
 
 

@@ -15,7 +15,7 @@ class Defender : public sf::RectangleShape {
 private:
     Direction direction;
 public:
-    Defender(int No);
+    explicit Defender(int No);
 
     Direction getDirection();
 
