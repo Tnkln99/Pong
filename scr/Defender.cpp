@@ -11,21 +11,23 @@ Defender::Defender(int No) : sf::RectangleShape(sf::Vector2f(160, 20)) {
         std::cout << "Defender::Defender(int No) : No is not 1 or 2" << std::endl;
         exit(1);
     }
-    this->direction = Direction::NONE;
-}
-
-Direction Defender::getDirection() {
-    return this->direction;
 }
 
 void Defender::updateDefender(Direction direction) {
-    this->direction = direction;
-    if(direction == Direction::LEFT)
+    if (this->getPosition().x < 10 ) {
+        setPosition(10, this->getPosition().y);
+    }
+    else if (this->getPosition().x > 830) {
+        setPosition(830, this->getPosition().y);
+    }
+    else if(direction == Direction::LEFT)
         this->move(-1,0);
     else if(direction == Direction::RIGHT)
         this->move(1,0);
 
 }
+
+
 
 
 
