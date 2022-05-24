@@ -16,13 +16,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5adf897c-dbc3-45e5-bbe6-a7cd668b1b36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/includes/DefenderAi.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scr/DefenderAi.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/includes/Ball.h" beforeDir="false" afterPath="$PROJECT_DIR$/includes/Ball.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/includes/Defender.h" beforeDir="false" afterPath="$PROJECT_DIR$/includes/Defender.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/DefenderAi.h" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/scr/Ball.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Ball.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scr/Defender.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Defender.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/DefenderAi.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/scr/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/scr/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +108,7 @@
       <workItem from="1653345348014" duration="2959000" />
       <workItem from="1653388230514" duration="5738000" />
       <workItem from="1653404649345" duration="2161000" />
-      <workItem from="1653409896118" duration="4035000" />
+      <workItem from="1653409896118" duration="6568000" />
     </task>
     <servers />
   </component>

@@ -9,7 +9,7 @@ bool Ball::getActive() const {
     return this->isActive;
 }
 
-void Ball::colliderCheck(Defender &defenderHum, DefenderAi &defenderAi) {
+void Ball::colliderCheck(Defender &defenderHum, Defender &defenderAi) {
     if (this->getGlobalBounds().intersects(defenderHum.getGlobalBounds())) {
         this->currVelocity.y = -this->currVelocity.y;
     }
@@ -24,7 +24,7 @@ void Ball::colliderCheck(Defender &defenderHum, DefenderAi &defenderAi) {
     }
 }
 
-void Ball::updateBall(Defender &defenderHum, DefenderAi &defenderAi, sf::Vector2f mousePos, bool isStarted) {
+void Ball::updateBall(Defender &defenderHum, Defender &defenderAi, sf::Vector2f mousePos, bool isStarted) {
     if(!isActive){
         setPosition(defenderHum.getPosition().x + 75, 950);
         if(isStarted){
