@@ -34,6 +34,7 @@
 
 ### CMake ###
 CMakeLists.txt.user
+cmake-build-debug
 CMakeCache.txt
 CMakeFiles
 CMakeScripts
@@ -43,6 +44,7 @@ cmake_install.cmake
 install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
+CMakeLists.txt
 _deps
 
 ### CMake Patch ###
@@ -74,3 +76,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+

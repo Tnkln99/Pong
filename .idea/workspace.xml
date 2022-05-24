@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Pong" targetName="Pong" />
+      <config projectName="Pong" targetName="scrLib" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5adf897c-dbc3-45e5-bbe6-a7cd668b1b36" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/includes/DefenderAi.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scr/DefenderAi.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/Ball.h" beforeDir="false" afterPath="$PROJECT_DIR$/includes/Ball.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/Defender.h" beforeDir="false" afterPath="$PROJECT_DIR$/includes/Defender.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/Ball.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Ball.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/Defender.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/scr/Defender.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scr/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/scr/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="1.1" />
+  </component>
+  <component name="ProjectId" id="29P5nQwmnnMXXueAj9cGlIb5G9a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tanku/Documents/Projects/Pong&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CPPToolchains&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tanku\Documents\Projects\Pong\includes" />
+      <recent name="C:\Users\tanku\Documents\Projects\Pong\scr" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.Pong">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pong" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Pong" TARGET_NAME="Pong" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Pong" RUN_TARGET_NAME="Pong">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="scrLib" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Pong" TARGET_NAME="scrLib" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Pong" />
+      <item itemvalue="CMake Application.scrLib" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5adf897c-dbc3-45e5-bbe6-a7cd668b1b36" name="Changes" comment="" />
+      <created>1653002049245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653002049245</updated>
+      <workItem from="1653002052241" duration="3560000" />
+      <workItem from="1653043398849" duration="1689000" />
+      <workItem from="1653057963566" duration="24000" />
+      <workItem from="1653058123459" duration="372000" />
+      <workItem from="1653067750903" duration="2985000" />
+      <workItem from="1653079050351" duration="27000" />
+      <workItem from="1653256532310" duration="2571000" />
+      <workItem from="1653333884952" duration="23000" />
+      <workItem from="1653334459652" duration="7041000" />
+      <workItem from="1653345348014" duration="2959000" />
+      <workItem from="1653388230514" duration="5738000" />
+      <workItem from="1653404649345" duration="2161000" />
+      <workItem from="1653409896118" duration="4035000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

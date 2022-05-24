@@ -13,7 +13,7 @@ enum class Direction {
 
 class Defender : public sf::RectangleShape {
 public:
-    explicit Defender(int No);
+    explicit Defender();
 
     void updateDefender(Direction direction);
 };
