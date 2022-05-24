@@ -1,2 +1,2 @@
 # Pong
-Pong game using sfml libary
+Pong game with a simple AI using sfml libary.
