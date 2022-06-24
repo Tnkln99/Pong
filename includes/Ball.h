@@ -7,7 +7,7 @@
 
 class Ball : public sf::CircleShape {
 private:
-    const float maxSpeed = 0.5f;
+    const float maxSpeed = 0.2f;
     sf::Vector2f currVelocity;
     bool isActive = false; // if defender made the first move to start the Game
 public:
